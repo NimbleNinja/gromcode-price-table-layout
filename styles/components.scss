@@ -1,0 +1,20 @@
+.btn {
+  width: 155px;
+  height: 40px;
+  padding: 0;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+
+  &_green {
+    background: #5bb189;
+  }
+  &_blue {
+    background: #3a6ba5;
+  }
+  &_orange {
+    background: #ec632a;
+  }
+}
