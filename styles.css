@@ -24,10 +24,11 @@
   margin: 0 auto;
   height: 1000px;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .cards {
-  margin: auto;
   display: flex;
   gap: 18px;
 }
@@ -97,6 +98,7 @@
   font-weight: 300;
   font-size: 15px;
   line-height: 18px;
+  text-align: center;
 }
 .price-card__options-list {
   margin-bottom: 39px;
@@ -132,6 +134,9 @@
 body {
   font-family: "Montserrat", sans-serif;
   color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*# sourceMappingURL=styles.css.map */

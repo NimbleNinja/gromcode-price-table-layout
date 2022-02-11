@@ -4,10 +4,11 @@
   margin: 0 auto;
   height: 1000px;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .cards {
-  margin: auto;
   display: flex;
   gap: 18px;
 }
@@ -88,6 +89,7 @@
     font-weight: 300;
     font-size: 15px;
     line-height: 18px;
+    text-align: center;
   }
 
   &__options-list {
