@@ -58,13 +58,15 @@
   transform: rotate(45deg);
 }
 .price-card__title {
+  margin-bottom: 33px;
+  text-align: center;
+}
+.price-card__lable {
   font-weight: 700;
   font-size: 35px;
   line-height: 43px;
-  text-align: center;
-  margin-bottom: 33px;
 }
-.price-card__title span {
+.price-card__sub-lable {
   font-weight: 300;
   font-size: 20px;
   line-height: 24px;
