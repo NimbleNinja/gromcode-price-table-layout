@@ -21,7 +21,6 @@
 .price-table {
   background: #141b1c;
   width: 1440px;
-  margin: 0 auto;
   height: 1000px;
   display: flex;
   justify-content: center;
@@ -93,7 +92,7 @@
   line-height: 67px;
 }
 .price-card__description {
-  padding: 0px 26px;
+  padding: 0px 27px;
   margin-bottom: 40px;
   font-weight: 300;
   font-size: 15px;
