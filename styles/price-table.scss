@@ -60,12 +60,10 @@
 
   &__price {
     margin-bottom: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-weight: 700;
     font-size: 55px;
     line-height: 105px;
+    text-align: center;
 
     &_bg-green {
       background: #5bb189;
