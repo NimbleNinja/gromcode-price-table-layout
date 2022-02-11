@@ -74,8 +74,13 @@
 }
 .price-card__price {
   height: 105px;
-  display: flex;
   margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 67px;
 }
 .price-card__price_bg-green {
   background: #5bb189;
@@ -85,12 +90,6 @@
 }
 .price-card__price_bg-orange {
   background: #ec632a;
-}
-.price-card__price h3 {
-  margin: auto;
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 67px;
 }
 .price-card__description {
   padding: 0px 27px;
