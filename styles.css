@@ -66,6 +66,7 @@
 .price-card__title span {
   font-weight: 300;
   font-size: 20px;
+  line-height: 24px;
 }
 .price-card__price {
   height: 105px;
