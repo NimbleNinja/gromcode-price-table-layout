@@ -1,8 +1,12 @@
 @import 'variables.scss';
-@import 'components.scss';
-@import 'price-table.scss';
+@import 'cards.scss';
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: $main-bg-color;
   font-family: 'Montserrat', sans-serif;
   color: $text-color;
 }
